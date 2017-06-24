@@ -10,3 +10,5 @@ Reference : https://gallery.technet.microsoft.com/scriptcenter/Get-List-of-Domai
 > Invoke-Mimikatz.ps1 
 
 This runs the powershell script by directly pulling it from Github and executing it "in memory" on your system.
+
+Reference : https://gallery.technet.microsoft.com/scriptcenter/Invoke-Mimikatz-and-will-d6c40fac
