@@ -9,4 +9,4 @@ Reference : https://gallery.technet.microsoft.com/scriptcenter/Get-List-of-Domai
 
 > Invoke-Mimikatz.ps1 
 
-The above PS file will Invoke-Mimikatz and will dump the creds of the respective system.
+This runs the powershell script by directly pulling it from Github and executing it "in memory" on your system.
