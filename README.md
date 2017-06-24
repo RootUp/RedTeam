@@ -12,3 +12,7 @@ Reference : https://gallery.technet.microsoft.com/scriptcenter/Get-List-of-Domai
 This runs the powershell script by directly pulling it from Github and executing it "in memory" on your system.
 
 Reference : https://gallery.technet.microsoft.com/scriptcenter/Invoke-Mimikatz-and-will-d6c40fac
+
+> HostRecon.ps1
+
+The above Module check and gather information of the local system, users, and domain Information, this can be use durning penesting in post Exploitation part.
