@@ -1,0 +1,1 @@
+IEX (New-Object System.Net.Webclient).DownloadString(‘https://gist.githubusercontent.com/mattifestation/f1e160bc970c8a7b82355d7e5946901b/raw/2c7ecc17ed9ffe7b856d1cd8643625c13c114c46/GetSecureBootPolicy.ps1’) ; Get-SecureBootPolicy
